@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sevenjidan](https://github.com/sevenjidan)
+- Place: Bogor, Indonesia
+- Bio: Student Java and PHP
+- Github: [Sevenjidan](https://github.com/sevenjidan)
